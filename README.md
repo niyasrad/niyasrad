@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radextrem69&label=Profile%20views&color=0e75b6&style=flat" alt="radextrem69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radextrem69" alt="radextrem69" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/radextrem" target="blank"><img src="https://img.shields.io/twitter/follow/radextrem?logo=twitter&style=for-the-badge" alt="radextrem" /></a> </p>
 
 - I'm currently working on my **Portfolio.**
@@ -12,8 +10,6 @@
 - I’m currently learning **JavaScript, Jetpack Compose**
 
 - All of my designs are available at [https://radextrem69.github.io/](https://radextrem69.github.io/)
-
-- Fun fact **I play osu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
