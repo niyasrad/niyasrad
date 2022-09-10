@@ -1,5 +1,5 @@
-<h1 align="center">Hello! Niyas Here.</h1>
-<h3 align="center">Front-End Developer, App Dev, ML Enthusiast.</h3>
+<h1 align="left">Hello! Niyas Here.</h1>
+<h3 align="left">Front-End Developer, App Dev, ML Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radextrem69&label=Profile%20views&color=0e75b6&style=flat" alt="radextrem69" /> </p>
 
