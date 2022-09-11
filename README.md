@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/radextrem" target="blank"><img src="https://img.shields.io/twitter/follow/radextrem?logo=twitter&style=for-the-badge" alt="radextrem" /></a> </p>
 
-- I'm currently working on my **Portfolio.**
+- My **Portfolio** [https://niyas-hameed-portfolio.vercel.app/](https://niyas-hameed-portfolio.vercel.app/)
 
 - I’m currently learning **JavaScript, Jetpack Compose**
 
-- All of my designs are available at [https://radextrem69.github.io/](https://radextrem69.github.io/)
+- I'm also into Graphic Design. My Designs are available at [https://radextrem69.github.io/](https://radextrem69.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
