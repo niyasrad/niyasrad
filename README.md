@@ -4,6 +4,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=niyasrad&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niyasrad&theme=swift&hide_border=false)<br/>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
