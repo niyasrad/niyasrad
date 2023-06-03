@@ -5,12 +5,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niyasrad&theme=swift&hide_border=false)<br/>
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   8 hrs 38 mins   █████████████░░░░░░░░░░░░   51.64 %
-TypeScript   4 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-CSS          2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-SCSS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```txt
+JavaScript   8 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
+TypeScript   6 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+CSS          2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
