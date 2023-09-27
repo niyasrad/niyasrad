@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     5 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-TypeScript     5 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.59 %
-Python         2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-HTML           2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-OpenEdge ABL   2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+JavaScript     5 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+TypeScript     4 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+HTML           3 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+Python         2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+CSS            1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
 ```
 
 <!--END_SECTION:waka-->
