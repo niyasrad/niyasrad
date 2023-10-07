@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 mins         ███████████░░░░░░░░░░░░░░   43.98 %
-Python       9 mins          ███████░░░░░░░░░░░░░░░░░░   27.77 %
-GDScript3    9 mins          ███████░░░░░░░░░░░░░░░░░░   27.56 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
