@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   14 mins         █████████████░░░░░░░░░░░░   51.38 %
-Docker                     7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Python                     6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
-YAML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
