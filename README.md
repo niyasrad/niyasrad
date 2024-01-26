@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       18 mins         █████████████▒░░░░░░░░░░░   53.60 %
-SQL          8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Other        5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
