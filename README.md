@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 mins          ████████████████████████▒   97.82 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
