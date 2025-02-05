@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 22 mins   ██████████████████████▓░░   90.54 %
-YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   3 hrs 18 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
