@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   45 mins         ████████████████▒░░░░░░░░   64.83 %
-TOML         24 mins         ████████▓░░░░░░░░░░░░░░░░   34.91 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
